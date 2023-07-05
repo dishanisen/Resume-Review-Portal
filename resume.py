@@ -1,7 +1,8 @@
-pip install streamlit requests streamlit-lottie
 import streamlit as st
 import requests
+import streamlit_lottie
 from streamlit_lottie import st_lottie
+
 
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 def load_lottieurl1(url):
