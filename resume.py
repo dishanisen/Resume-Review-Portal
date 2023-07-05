@@ -1,4 +1,3 @@
-pip install streamlit
 import streamlit as st
 import requests
 pip install streamlit_lottie
