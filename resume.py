@@ -18,7 +18,7 @@ def load_lottieurl2(url):
     return r.json()
 # ---- LOAD ASSETS ----
 lottie_coding1 = load_lottieurl1("https://assets2.lottiefiles.com/packages/lf20_BROxHtztMy.json")
-lottie_coding2 = load_lottieurl2("https://assets10.lottiefiles.com/packages/lf20_azmnf6vt.json")
+lottie_coding2 = load_lottieurl2("https://assets2.lottiefiles.com/packages/lf20_lrw0segg.json")
 
 st.title("Dishani's Resume Review Portal")
 
