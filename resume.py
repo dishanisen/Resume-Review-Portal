@@ -41,7 +41,7 @@ with left_column:
             - With a second pair of eyes to your resume/CV via my resume reviewing services
             - Create compelling resume that stands out 
             - Review SOP with constructive feedback to enhance the impact
-            - With tailored advice on how to break into the data science
+            - With tailored advice on how to break into data science
             - Make informed decisions about your professional journey, especially when it involves relocating abroad
 
             If this sounds interesting to you, you can connect with me via 👇 
@@ -89,12 +89,11 @@ with st.container():
         st.write("##")
         st.write(
             """
-            Thanks for visiting my portal and trusting me with your resume. Here, on the other hand,a real human (that's correct,I) will analyse your resume and provide actionalble feedback.
+            Thanks for visiting my portal and trusting me with your resume. Here, on the other hand,a real human (that's correct, I) will analyze your resume and provide actionable feedback.
             - If you have a message for me, please put them in the contact form.
             - Even if you do not have any special note for me, please do not forget to fill the contact form below, after submitting your resume for review.
             - This portal is still under development, so at this point, I can only get back to you with tailored advice on your resume when you leave your email through this form.
             - All the best for your career journey,🤝 happy to have helped you!
-            
             """
         )
         
