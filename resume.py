@@ -27,7 +27,7 @@ st.write(
 st.write("[Learn More >](https://www.linkedin.com/in/dishanisen/)")
 
 
-# Step 3: Reviewer Panel
+# What I do
 st.header("What I do")
 st.write("---")
 left_column, right_column = st.columns(2)
@@ -49,7 +49,7 @@ with left_column:
 with right_column:
         st_lottie(lottie_coding1, height=300, key="coding1")
 
-
+# Review Uploading Section
 def main():
     
 
@@ -91,7 +91,7 @@ with st.container():
             - If you have a message for me, please put them in the contact form.
             - Even if you do not have any special note for me, please do not forget to fill the contact form below, after submitting your resume for review.
             - This portal is still under development, so at this point, I can only get back to you with tailored advice on your resume when you leave your email through this form.
-            - All the best for your career journey, happy to have helped you!
+            - All the best for your career journey,🤝 happy to have helped you!
             
             """
         )
